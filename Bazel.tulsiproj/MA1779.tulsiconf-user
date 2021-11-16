@@ -1,0 +1,10 @@
+{
+  "optionSet" : {
+    "BazelPath" : {
+      "p" : "/opt/homebrew/Cellar/bazel/4.2.1_1/bin/bazel"
+    },
+    "WorkspaceRootPath" : {
+      "p" : "/Users/MA1779/Documents/Privy/_Bazel"
+    }
+  }
+}

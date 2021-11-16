@@ -1,0 +1,29 @@
+
+<Scheme LastUpgradeVersion="1000" version="1.3">
+    <BuildAction parallelizeBuildables="YES" buildImplicitDependencies="YES">
+        <BuildActionEntries>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="11B2B8BD9A7C28AA00000000" BuildableName="lib-HelloWorldAppLibrary.a" BlueprintName="-HelloWorldAppLibrary" ReferencedContainer="container:Bazel.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+        </BuildActionEntries>
+    </BuildAction>
+    <TestAction buildConfiguration="__TulsiTestRunner_Debug" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" customLLDBInitFile="$(PROJECT_FILE_PATH)/.tulsi/Utils/lldbinit" shouldUseLaunchSchemeArgsEnv="YES">
+        <Testables></Testables>
+        <BuildableProductRunnable runnableDebuggingMode="0">
+            <BuildableReference BuildableName="lib-HelloWorldAppLibrary.a" BlueprintIdentifier="11B2B8BD9A7C28AA00000000" BlueprintName="-HelloWorldAppLibrary" BuildableIdentifier="primary" ReferencedContainer="container:Bazel.xcodeproj"></BuildableReference>
+        </BuildableProductRunnable>
+    </TestAction>
+    <LaunchAction debugServiceExtension="internal" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" allowLocationSimulation="YES" customLLDBInitFile="$(PROJECT_FILE_PATH)/.tulsi/Utils/lldbinit" launchStyle="0" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" useCustomWorkingDirectory="NO" buildConfiguration="Debug" ignoresPersistentStateOnLaunch="NO" debugDocumentVersioning="YES">
+        <EnvironmentVariables></EnvironmentVariables>
+        <MacroExpansion>
+            <BuildableReference BlueprintName="-HelloWorldAppLibrary" BlueprintIdentifier="11B2B8BD9A7C28AA00000000" BuildableIdentifier="primary" ReferencedContainer="container:Bazel.xcodeproj" BuildableName="lib-HelloWorldAppLibrary.a"></BuildableReference>
+        </MacroExpansion>
+    </LaunchAction>
+    <ProfileAction debugDocumentVersioning="YES" buildConfiguration="__TulsiTestRunner_Release" useCustomWorkingDirectory="NO" shouldUseLaunchSchemeArgsEnv="YES">
+        <MacroExpansion>
+            <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Bazel.xcodeproj" BlueprintName="-HelloWorldAppLibrary" BuildableName="lib-HelloWorldAppLibrary.a" BlueprintIdentifier="11B2B8BD9A7C28AA00000000"></BuildableReference>
+        </MacroExpansion>
+    </ProfileAction>
+    <AnalyzeAction buildConfiguration="Debug"></AnalyzeAction>
+    <ArchiveAction revealArchiveInOrganizer="YES" buildConfiguration="Release"></ArchiveAction>
+</Scheme>
