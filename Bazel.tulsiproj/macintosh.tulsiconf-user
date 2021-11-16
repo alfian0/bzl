@@ -1,0 +1,10 @@
+{
+  "optionSet" : {
+    "BazelPath" : {
+      "p" : "/usr/local/Cellar/bazel/4.2.1_1/bin/bazel-4.2.1"
+    },
+    "WorkspaceRootPath" : {
+      "p" : "/Users/macintosh/Documents/bzl"
+    }
+  }
+}
