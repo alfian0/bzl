@@ -49,7 +49,7 @@
   },
   "projectName" : "Bazel",
   "sourceFilters" : [
-    "Base.lproj",
+    "Resources",
     "external",
     "external/bazel_skylib",
     "external/bazel_skylib/lib",
