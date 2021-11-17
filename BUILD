@@ -20,17 +20,14 @@ objc_library(
     srcs = [
         "AppDelegate.m",
         "ViewController.m",
-        "main.m",
-        "SceneDelegate.m"
+        "main.m"
     ],
     hdrs = [
         "AppDelegate.h",
-        "ViewController.h",
-        "SceneDelegate.h"
+        "ViewController.h"
     ],
     data = [
         "Base.lproj/LaunchScreen.storyboard",
-        "Base.lproj/Main.storyboard",
     ],
     sdk_frameworks = [
         "UIKit",
