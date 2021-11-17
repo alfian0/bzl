@@ -11,7 +11,7 @@ ios_application(
     ],
     infoplists = ["Info.plist"],
     minimum_os_version = MIN_IOS_VERSION,
-    provisioning_profile = "fe66a10f-bb69-4c6d-b539-347d73ee6b7a.mobileprovision",
+    # provisioning_profile = "fe66a10f-bb69-4c6d-b539-347d73ee6b7a.mobileprovision",
     deps = [":HelloWorldAppLibrary"],
 )
 
