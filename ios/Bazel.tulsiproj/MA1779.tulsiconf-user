@@ -1,7 +1,7 @@
 {
   "optionSet" : {
     "BazelPath" : {
-      "p" : "/Users/MA1779/.bazel/bin/bazel"
+      "p" : "/Users/MA1779/.bazel/bin/bazel-real"
     },
     "WorkspaceRootPath" : {
       "p" : "/Users/MA1779/Documents/Privy/_Bazel"

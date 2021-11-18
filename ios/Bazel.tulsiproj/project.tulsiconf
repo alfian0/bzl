@@ -5,8 +5,8 @@
     }
   },
   "packages" : [
-    ""
+    "ios"
   ],
   "projectName" : "Bazel",
-  "workspaceRoot" : ".."
+  "workspaceRoot" : "../.."
 }
